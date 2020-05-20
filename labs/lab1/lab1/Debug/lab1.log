@@ -1,0 +1,7 @@
+﻿  allocator.c
+c:\users\stani\source\repos\lab1\lab1\allocator.c(82): warning C4028: формальный параметр 1 отличается от объявления
+c:\users\stani\source\repos\lab1\lab1\allocator.c(212): warning C4133: функция: несовместимые типы - из "mem_block_header_t *" в "unsigned char *"
+c:\users\stani\source\repos\lab1\lab1\allocator.c(257): warning C4098: split_mem_block: функция типа "void", возвращающая значение
+c:\users\stani\source\repos\lab1\lab1\allocator.c(299): warning C4047: функция: "unsigned char *" отличается по уровням косвенного обращения от "mem_block_header_t **"
+c:\users\stani\source\repos\lab1\lab1\allocator.c(299): warning C4024: freeAndUnProtected: различные типы для формального и фактического параметров 1
+  lab1.vcxproj -> C:\Users\stani\source\repos\lab1\Debug\lab1.exe

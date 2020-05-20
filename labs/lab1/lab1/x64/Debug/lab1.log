@@ -1,0 +1,12 @@
+﻿  dump.c
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(8,9): message : consider using '%zd' in the format string
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(10,9): message : consider using '%zd' in the format string
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(22,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(22,10): message : consider using '%zd' in the format string
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(24,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(24,10): message : consider using '%lld' in the format string
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(24,10): message : consider using '%Id' in the format string
+C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\lab1\dump.c(24,10): message : consider using '%I64d' in the format string
+  lab1.vcxproj -> C:\Users\doros\OneDrive\Рабочий стол\OOPLabs\lab1\x64\Debug\lab1.exe
